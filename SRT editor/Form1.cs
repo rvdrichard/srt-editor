@@ -16,6 +16,7 @@ namespace SRT_editor
     {
 
         private String filelocation;
+        private String[] srt;
 
         public Form1()
         {
@@ -24,7 +25,7 @@ namespace SRT_editor
 
         private void readFile()
         {
-            String[] srt = File.ReadAllLines(filelocation);
+            srt = File.ReadAllLines(filelocation);
             String result = "";
             foreach(String srttext in srt)
             {
@@ -47,5 +48,10 @@ namespace SRT_editor
             }
         }
 
+        private void AddTimeOffsetBtn_Click(object sender, EventArgs e)
+        {
+            EditTime EditTime = new EditTime();
+            EditTime.AddOffset(srt);
+        }
     }
 }

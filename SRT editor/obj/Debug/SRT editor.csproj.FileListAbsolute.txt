@@ -23,3 +23,12 @@ C:\Users\Richard\documents\visual studio 2017\Projects\SRT editor\SRT editor\bin
 C:\Users\Richard\documents\visual studio 2017\Projects\SRT editor\SRT editor\bin\Debug\Google.Apis.Translate.v2.xml
 C:\Users\Richard\documents\visual studio 2017\Projects\SRT editor\SRT editor\bin\Debug\Newtonsoft.Json.xml
 C:\Users\Richard\documents\visual studio 2017\Projects\SRT editor\SRT editor\bin\Debug\Zlib.Portable.xml
+C:\Projecten\srt editor\SRT editor\bin\Debug\SRT editor.exe.config
+C:\Projecten\srt editor\SRT editor\bin\Debug\SRT editor.exe
+C:\Projecten\srt editor\SRT editor\bin\Debug\SRT editor.pdb
+C:\Projecten\srt editor\SRT editor\obj\Debug\SRT editor.csprojResolveAssemblyReference.cache
+C:\Projecten\srt editor\SRT editor\obj\Debug\SRT_editor.Form1.resources
+C:\Projecten\srt editor\SRT editor\obj\Debug\SRT_editor.Properties.Resources.resources
+C:\Projecten\srt editor\SRT editor\obj\Debug\SRT editor.csproj.GenerateResource.Cache
+C:\Projecten\srt editor\SRT editor\obj\Debug\SRT editor.exe
+C:\Projecten\srt editor\SRT editor\obj\Debug\SRT editor.pdb
