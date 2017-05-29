@@ -1,0 +1,25 @@
+c:\users\richard\documents\visual studio 2017\Projects\SRT editor\SRT editor\bin\Debug\SRT editor.exe.config
+c:\users\richard\documents\visual studio 2017\Projects\SRT editor\SRT editor\bin\Debug\SRT editor.exe
+c:\users\richard\documents\visual studio 2017\Projects\SRT editor\SRT editor\bin\Debug\SRT editor.pdb
+c:\users\richard\documents\visual studio 2017\Projects\SRT editor\SRT editor\obj\Debug\SRT editor.csprojResolveAssemblyReference.cache
+c:\users\richard\documents\visual studio 2017\Projects\SRT editor\SRT editor\obj\Debug\SRT_editor.Form1.resources
+c:\users\richard\documents\visual studio 2017\Projects\SRT editor\SRT editor\obj\Debug\SRT_editor.Properties.Resources.resources
+c:\users\richard\documents\visual studio 2017\Projects\SRT editor\SRT editor\obj\Debug\SRT editor.csproj.GenerateResource.Cache
+c:\users\richard\documents\visual studio 2017\Projects\SRT editor\SRT editor\obj\Debug\SRT editor.exe
+c:\users\richard\documents\visual studio 2017\Projects\SRT editor\SRT editor\obj\Debug\SRT editor.pdb
+C:\Users\Richard\documents\visual studio 2017\Projects\SRT editor\SRT editor\bin\Debug\Google.Apis.Core.dll
+C:\Users\Richard\documents\visual studio 2017\Projects\SRT editor\SRT editor\bin\Debug\Google.Apis.dll
+C:\Users\Richard\documents\visual studio 2017\Projects\SRT editor\SRT editor\bin\Debug\Google.Apis.PlatformServices.dll
+C:\Users\Richard\documents\visual studio 2017\Projects\SRT editor\SRT editor\bin\Debug\Google.Apis.Translate.v2.dll
+C:\Users\Richard\documents\visual studio 2017\Projects\SRT editor\SRT editor\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Richard\documents\visual studio 2017\Projects\SRT editor\SRT editor\bin\Debug\Zlib.Portable.dll
+C:\Users\Richard\documents\visual studio 2017\Projects\SRT editor\SRT editor\bin\Debug\Google.Apis.pdb
+C:\Users\Richard\documents\visual studio 2017\Projects\SRT editor\SRT editor\bin\Debug\Google.Apis.xml
+C:\Users\Richard\documents\visual studio 2017\Projects\SRT editor\SRT editor\bin\Debug\Google.Apis.Core.pdb
+C:\Users\Richard\documents\visual studio 2017\Projects\SRT editor\SRT editor\bin\Debug\Google.Apis.Core.xml
+C:\Users\Richard\documents\visual studio 2017\Projects\SRT editor\SRT editor\bin\Debug\Google.Apis.PlatformServices.pdb
+C:\Users\Richard\documents\visual studio 2017\Projects\SRT editor\SRT editor\bin\Debug\Google.Apis.PlatformServices.xml
+C:\Users\Richard\documents\visual studio 2017\Projects\SRT editor\SRT editor\bin\Debug\Google.Apis.Translate.v2.pdb
+C:\Users\Richard\documents\visual studio 2017\Projects\SRT editor\SRT editor\bin\Debug\Google.Apis.Translate.v2.xml
+C:\Users\Richard\documents\visual studio 2017\Projects\SRT editor\SRT editor\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Richard\documents\visual studio 2017\Projects\SRT editor\SRT editor\bin\Debug\Zlib.Portable.xml
