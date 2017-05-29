@@ -129,6 +129,7 @@
             this.btntranslate.TabIndex = 0;
             this.btntranslate.Text = "Translate";
             this.btntranslate.UseVisualStyleBackColor = true;
+            this.btntranslate.Click += new System.EventHandler(this.btntranslate_Click);
             // 
             // label4
             // 

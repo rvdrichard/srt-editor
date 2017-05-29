@@ -16,6 +16,7 @@ namespace SRT_editor
     {
 
         private String filelocation;
+        private String[] srt;
 
         public Form1()
         {
@@ -24,7 +25,7 @@ namespace SRT_editor
 
         private void readFile()
         {
-            String[] srt = File.ReadAllLines(filelocation);
+            srt = File.ReadAllLines(filelocation);
             String result = "";
             foreach(String srttext in srt)
             {
@@ -47,5 +48,27 @@ namespace SRT_editor
             }
         }
 
+        private void btntranslate_Click(object sender, EventArgs e)
+        {
+            Translate translate = new Translate(Language.nl, Language.en);
+            String[] translated = new String[srt.Length];
+            for(int i = 0;i < srt.Length;i++) { 
+                if(srt[i].Equals("") || char.IsDigit(srt[i][0]))
+                {
+                    translated[i] = srt[i];
+                } else
+                {
+                    translated[i] = translate.getResult(srt[i]);
+                }
+            }
+
+            String result = "";
+            foreach (String srttext in translated)
+            {
+                result += srttext + "\n";
+            }
+            txtboxfrom.BeginInvoke(((Action)(() => txtboxto.Text = result)));
+            Console.WriteLine(translate.getResult("Hallo meneer beer"));
+        }
     }
 }
