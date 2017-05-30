@@ -51,7 +51,8 @@ namespace SRT_editor
         private void AddTimeOffsetBtn_Click(object sender, EventArgs e)
         {
             EditTime EditTime = new EditTime();
-            EditTime.AddOffset(srt);
+            string[] lines = txtboxfrom.Text.Split('\n');
+            EditTime.AddOffset(lines, 100.0);
         }
     }
 }
