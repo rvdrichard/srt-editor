@@ -13,9 +13,11 @@ namespace SRT_editor
         private String endtime;
         private String text;
 
-        public string Linenumber { get => linenumber; set => linenumber = value; }
-        public string Begintime { get => begintime; set => begintime = value; }
-        public string Endtime { get => endtime; set => endtime = value; }
-        public string Text { get => text; set => text = value; }
+        public string Linenumber { get; set; }
+        public string Begintime { get; set; }
+        public string Endtime { get; set; }
+        public string Text { get; set; }
     }
-}
+
+
+    }
