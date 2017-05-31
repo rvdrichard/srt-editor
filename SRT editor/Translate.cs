@@ -32,7 +32,7 @@ namespace SRT_editor
             return result;
         }
 
-        public String GetTextBetween(String source, int start, int length)
+        private String GetTextBetween(String source, int start, int length)
         {
             return source.Substring(start,length);
         }
