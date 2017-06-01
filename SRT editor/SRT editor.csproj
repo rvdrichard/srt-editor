@@ -52,8 +52,10 @@
       <DependentUpon>Form1.cs</DependentUpon>
     </Compile>
     <Compile Include="Language.cs" />
+    <Compile Include="OpenSubtitles.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SrtFile.cs" />
     <Compile Include="SrtLine.cs" />
     <Compile Include="Translate.cs" />
     <EmbeddedResource Include="Form1.resx">

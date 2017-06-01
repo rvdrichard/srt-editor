@@ -32,3 +32,12 @@ C:\Users\asus\Documents\Visual Studio 2017\Projects\Srt editor\SRT editor\obj\De
 C:\Users\asus\Documents\Visual Studio 2017\Projects\Srt editor\SRT editor\obj\Debug\SRT editor.csproj.GenerateResource.Cache
 C:\Users\asus\Documents\Visual Studio 2017\Projects\Srt editor\SRT editor\obj\Debug\SRT editor.exe
 C:\Users\asus\Documents\Visual Studio 2017\Projects\Srt editor\SRT editor\obj\Debug\SRT editor.pdb
+C:\Users\asus\Desktop\backup\Srt editor\SRT editor\bin\Debug\SRT editor.exe.config
+C:\Users\asus\Desktop\backup\Srt editor\SRT editor\bin\Debug\SRT editor.exe
+C:\Users\asus\Desktop\backup\Srt editor\SRT editor\bin\Debug\SRT editor.pdb
+C:\Users\asus\Desktop\backup\Srt editor\SRT editor\obj\Debug\SRT editor.csprojResolveAssemblyReference.cache
+C:\Users\asus\Desktop\backup\Srt editor\SRT editor\obj\Debug\SRT_editor.Form1.resources
+C:\Users\asus\Desktop\backup\Srt editor\SRT editor\obj\Debug\SRT_editor.Properties.Resources.resources
+C:\Users\asus\Desktop\backup\Srt editor\SRT editor\obj\Debug\SRT editor.csproj.GenerateResource.Cache
+C:\Users\asus\Desktop\backup\Srt editor\SRT editor\obj\Debug\SRT editor.exe
+C:\Users\asus\Desktop\backup\Srt editor\SRT editor\obj\Debug\SRT editor.pdb
